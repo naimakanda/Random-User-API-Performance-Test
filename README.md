@@ -21,3 +21,5 @@
 -  ``` npm test ```
 
 ## Random user API performance test strategy report
+![Load Test](https://github.com/naimakanda/Random-User-API-Performance-Test/assets/44730512/021ee652-8d65-4d0a-96cb-1f85721bbc13)
+![Stress test](https://github.com/naimakanda/Random-User-API-Performance-Test/assets/44730512/76b5b27c-5079-46ff-b323-3837ccc7c3a5)
