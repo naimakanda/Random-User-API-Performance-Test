@@ -19,3 +19,5 @@
 - give following command:
 -  ``` npm i ```
 -  ``` npm test ```
+
+## Random user API performance test strategy report
